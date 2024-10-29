@@ -18,7 +18,7 @@ A **Troca de Imagem** permite ao usuário oscilar entre 3 imagens de um amigo me
 - [x] **Android Studio** (Bumblebee | 2021.1.1)
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
-- [x] **TextView**, **Button** e **EditText**
+- [x] **TextView** e **Button**
 
 ## 🛠️ Como Rodar o Projeto
 
